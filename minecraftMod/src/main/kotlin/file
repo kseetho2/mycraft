@@ -1,0 +1,4 @@
+package net.shadowfacts.forgelin
+
+@net.minecraftforge.fml.common.Mod
+Object
